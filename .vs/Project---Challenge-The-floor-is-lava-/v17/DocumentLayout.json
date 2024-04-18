@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity Project GIT\\Project---Challenge-The-floor-is-lava-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C532989-76D3-0C39-E898-19018440AF1D}|Assembly-CSharp.csproj|c:\\unity project git\\project---challenge-the-floor-is-lava-\\assets\\cubescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C532989-76D3-0C39-E898-19018440AF1D}|Assembly-CSharp.csproj|solutionrelative:assets\\cubescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C532989-76D3-0C39-E898-19018440AF1D}|Assembly-CSharp.csproj|c:\\unity project git\\project---challenge-the-floor-is-lava-\\assets\\balltransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C532989-76D3-0C39-E898-19018440AF1D}|Assembly-CSharp.csproj|solutionrelative:assets\\balltransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C532989-76D3-0C39-E898-19018440AF1D}|Assembly-CSharp.csproj|C:\\Unity Project GIT\\Project---Challenge-The-floor-is-lava-\\assets\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C532989-76D3-0C39-E898-19018440AF1D}|Assembly-CSharp.csproj|solutionrelative:assets\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CubeScript.cs",
+              "DocumentMoniker": "C:\\Unity Project GIT\\Project---Challenge-The-floor-is-lava-\\Assets\\CubeScript.cs",
+              "RelativeDocumentMoniker": "Assets\\CubeScript.cs",
+              "ToolTip": "C:\\Unity Project GIT\\Project---Challenge-The-floor-is-lava-\\Assets\\CubeScript.cs",
+              "RelativeToolTip": "Assets\\CubeScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:58:39.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BallTransform.cs",
+              "DocumentMoniker": "C:\\Unity Project GIT\\Project---Challenge-The-floor-is-lava-\\Assets\\BallTransform.cs",
+              "RelativeDocumentMoniker": "Assets\\BallTransform.cs",
+              "ToolTip": "C:\\Unity Project GIT\\Project---Challenge-The-floor-is-lava-\\Assets\\BallTransform.cs",
+              "RelativeToolTip": "Assets\\BallTransform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:31:38.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloWorld.cs",
+              "DocumentMoniker": "C:\\Unity Project GIT\\Project---Challenge-The-floor-is-lava-\\Assets\\HelloWorld.cs",
+              "RelativeDocumentMoniker": "Assets\\HelloWorld.cs",
+              "ToolTip": "C:\\Unity Project GIT\\Project---Challenge-The-floor-is-lava-\\Assets\\HelloWorld.cs",
+              "RelativeToolTip": "Assets\\HelloWorld.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:09:46.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

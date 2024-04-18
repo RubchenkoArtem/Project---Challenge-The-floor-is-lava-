@@ -1,5 +1,8 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp.dll:
+    - BallTransform
+    - CubeScript
     Unity.Play.Publisher.Editor.dll:
     - Unity.Play.Publisher.Editor.AnalyticsHelper
     - Unity.Play.Publisher.Editor.PublisherWindow
@@ -197,67 +200,71 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4320}
     - Class: 114
-      Script: {instanceID: 4452}
+      Script: {instanceID: 4454}
     - Class: 114
-      Script: {instanceID: 4676}
+      Script: {instanceID: 4678}
     - Class: 114
-      Script: {instanceID: 4724}
+      Script: {instanceID: 4726}
     - Class: 114
-      Script: {instanceID: 4828}
+      Script: {instanceID: 4830}
     - Class: 114
-      Script: {instanceID: 5282}
+      Script: {instanceID: 5284}
     - Class: 114
-      Script: {instanceID: 5422}
+      Script: {instanceID: 5426}
     - Class: 114
-      Script: {instanceID: 5878}
+      Script: {instanceID: 5886}
     - Class: 114
-      Script: {instanceID: 6888}
+      Script: {instanceID: 6228}
     - Class: 114
-      Script: {instanceID: 6962}
+      Script: {instanceID: 6900}
     - Class: 114
-      Script: {instanceID: 7058}
+      Script: {instanceID: 6974}
     - Class: 114
-      Script: {instanceID: 7084}
+      Script: {instanceID: 7072}
     - Class: 114
-      Script: {instanceID: 7160}
+      Script: {instanceID: 7098}
     - Class: 114
-      Script: {instanceID: 7462}
+      Script: {instanceID: 7174}
     - Class: 114
-      Script: {instanceID: 7466}
+      Script: {instanceID: 7476}
     - Class: 114
-      Script: {instanceID: 7490}
+      Script: {instanceID: 7480}
     - Class: 114
-      Script: {instanceID: 7868}
+      Script: {instanceID: 7504}
     - Class: 114
-      Script: {instanceID: 8292}
+      Script: {instanceID: 7886}
     - Class: 114
-      Script: {instanceID: 8410}
+      Script: {instanceID: 8180}
     - Class: 114
-      Script: {instanceID: 8416}
+      Script: {instanceID: 8314}
     - Class: 114
-      Script: {instanceID: 8582}
+      Script: {instanceID: 8434}
     - Class: 114
-      Script: {instanceID: 8634}
+      Script: {instanceID: 8440}
     - Class: 114
-      Script: {instanceID: 8702}
+      Script: {instanceID: 8606}
     - Class: 114
-      Script: {instanceID: 8834}
+      Script: {instanceID: 8658}
     - Class: 114
-      Script: {instanceID: 8978}
+      Script: {instanceID: 8728}
     - Class: 114
-      Script: {instanceID: 9200}
+      Script: {instanceID: 8862}
     - Class: 114
-      Script: {instanceID: 9360}
+      Script: {instanceID: 9006}
     - Class: 114
-      Script: {instanceID: 9424}
+      Script: {instanceID: 9228}
     - Class: 114
-      Script: {instanceID: 9460}
+      Script: {instanceID: 9388}
     - Class: 114
-      Script: {instanceID: 9902}
+      Script: {instanceID: 9452}
     - Class: 114
-      Script: {instanceID: 10902}
+      Script: {instanceID: 9488}
     - Class: 114
-      Script: {instanceID: 11288}
+      Script: {instanceID: 9932}
+    - Class: 114
+      Script: {instanceID: 10938}
+    - Class: 114
+      Script: {instanceID: 11326}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -869,6 +876,12 @@ ScriptsOnlyBuild:
     className: UnityOnCancelMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 8232b5d374bc8b7d446e27a00c1f73ec
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: BallTransform
+  - hash:
+      serializedVersion: 2
       Hash: 8fe6d4f095ce838f5396d1867140a9b6
     assemblyName: Unity.RenderPipelines.Core.Runtime
     namespaceName: UnityEngine.Rendering
@@ -1101,6 +1114,12 @@ ScriptsOnlyBuild:
     assemblyName: FbxBuildTestAssets
     namespaceName: Autodesk.Fbx.BuildTests
     className: ExportEmptyFbx
+  - hash:
+      serializedVersion: 2
+      Hash: 331b299d2c3478c1ffaaa2c0459b78cc
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: CubeScript
   - hash:
       serializedVersion: 2
       Hash: ef38c1407dba8c1f5d69f5db61a694fe
@@ -1391,6 +1410,12 @@ ScriptsOnlyBuild:
     className: ControlTrack
   - hash:
       serializedVersion: 2
+      Hash: b5ed158da17e7c53d696966c68f8fd77
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: HelloWorld
+  - hash:
+      serializedVersion: 2
       Hash: a5ad9ae09f631b1b248656133778353a
     assemblyName: Unity.Polybrush
     namespaceName: UnityEngine.Polybrush
@@ -1488,5 +1513,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/The floor is lava.unity
-  playerPath: "C:/Users/rubch/OneDrive/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/Unity
-    learn/Explore Unity/Project - Challenge The floor is lava!/WebGL Builds"
+  playerPath: C:/Unity Project GIT/Project---Challenge-The-floor-is-lava-/WebGL Builds
